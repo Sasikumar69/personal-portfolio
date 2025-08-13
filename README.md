@@ -39,4 +39,5 @@ I specialize in cleaning, analyzing, and visualizing large datasets using SQL, P
 - **GitHub:** [Sasikumar69](https://github.com/Sasikumar69)
 - **LinkedIn:** [sasikumar-anandan](https://www.linkedin.com/in/sasikumar-anandan)
 
-
+## Licence
+- **Sasikumar Anandan
