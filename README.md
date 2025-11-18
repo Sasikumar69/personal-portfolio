@@ -26,10 +26,61 @@ I specialize in cleaning, analyzing, and visualizing large datasets using SQL, P
 
 ## Projects
 
-- **Sales Performance Dashboard — Power BI**  
+⭐ 1. Sales Performance Dashboard — Power BI**  
   Interactive dashboard analyzing 2M+ sales records to identify underperforming regions and improve forecast accuracy by 15%.
-- **HR Employee Data Analysis — Power BI**  
+
+⭐ 2. HR Employee Data Analysis — Power BI**  
   Dashboard analyzing 1,470 employee records to track job satisfaction, retention trends, and reduce churn risk by 10%.
+  
+⭐ 3. PERSONAL PORTFOLIO VERSION (Website-ku perfect)
+
+(Short + crisp + business focused)
+
+Customer Behavior Analysis Dashboard
+
+A complete end-to-end data analytics project built to understand customer purchasing behavior and help businesses make data-driven decisions.
+
+🧩 Business Problem
+
+Retail companies struggle to understand:
+
+Which customers generate higher revenue
+
+Which seasons & product categories drive most sales
+
+What factors influence purchase behavior
+
+How subscription & discount programs affect revenue
+
+How to target the right customer segment
+
+✅ Solution Implemented
+
+I built a full analytics pipeline using Python, SQL, and Power BI:
+
+Cleaned and standardized raw customer data (3,900 records)
+
+Conducted SQL-based business analysis (10+ insights)
+
+Built an interactive Power BI dashboard with slicers
+
+Identified revenue drivers, customer segments & trends
+
+🔍 Key Insights
+
+Female customers generated 68% of total revenue
+
+Winter season revenue is 35% higher than summer
+
+Clothing contributes 40% of total sales
+
+Subscribers spend 25% more on average
+
+Middle-aged customers are the highest spenders
+
+🛠️ Tech Stack
+
+Python, Pandas, SQL, Power BI, Jupyter Notebook
 
 ## Contact
 
